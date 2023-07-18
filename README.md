@@ -4,4 +4,4 @@
 
 - ekran gif 
 
-! [](ekran-kaydi.gif)
+! [](https://share.getcloudapp.com/E0uLyXqZ)
