@@ -7,6 +7,6 @@
 - ekran gif 
 
  
-![](ekran-kaydi.gif)
+![](ekran-kaydi-min.gif)
 
 
